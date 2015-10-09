@@ -5,7 +5,7 @@
 // @namespace      https://github.com/milanzelenka/
 // @description    Make hangouts.google.com more compact for display more conversations
 // @author         Milan Zelenka
-// @version        1.0.0
+// @version        1.0.1
 // @downloadURL    https://raw.githubusercontent.com/milanzelenka/user-javascripts/master/more-hangouts.user.js
 // @updateURL      https://raw.githubusercontent.com/milanzelenka/user-javascripts/master/more-hangouts.user.js
 // @include        https://hangouts.google.com/*
